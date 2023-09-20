@@ -1,4 +1,5 @@
 export class registerDto {
+    readonly username: string;
     readonly email: string;
     readonly password: string
 }
